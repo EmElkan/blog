@@ -1,7 +1,7 @@
 ---
 title: Learning Plan
 subtitle: >-
-  My Learning Plan
+  A place to track my progress and personal development
 menus:
   main:
     weight: 3
