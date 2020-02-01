@@ -5,12 +5,12 @@ collections:
   posts:
     permalink: '/posts/:title/'
 layout_style: overflow
-palette: orange
+palette: blue
 header:
   title: Em Elkan
   tagline: SQA Engineer. Automation enthusiast. Habitual hobbyist. Always learning.
   profile_img: images/avatar.png
-  bg: dark
+  bg: light
   has_nav: true
   has_social: true
 footer:
