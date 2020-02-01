@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 layout_style: overflow
-palette: blue
+palette: orange
 header:
   title: Em Elkan
   tagline: SQA Engineer. Automation enthusiast. Habitual hobbyist. Always learning.
