@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: I'm a software tester enjoying my first year in tech.
-img_path: images/about.jpg
+img_path: images/about.png
 menus:
   main:
     weight: 4
@@ -9,12 +9,11 @@ menus:
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**E Elkan** is a SQA Engineer from [Hull](https://en.wikipedia.org/wiki/Kingston_upon_Hull), England. After graduating from The Hull School of Art and Design with a degree in Creative Arts, she spent several years raising a family. In April 2019 she started her first job in software development as a Trainee Software Tester.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+>Testing is an infinite process of comparing the invisible to the ambiguous in order to avoid the unthinkable happening to the anonymous. <cite>James Bach</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+As a hobby, E Elkan enjoys learning about new technologies and developing her software testing skills.
 
 *Thank You for reading!*
