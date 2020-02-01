@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: I'm a software tester enjoying my first year in tech.
 img_path: images/about.jpg
 menus:
   main:
