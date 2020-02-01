@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: Guide
 subtitle: >-
   The style guide provides you with a blueprint of default post and page styles.
   The style guide is also a great reference for suggested typographic treatment
@@ -7,7 +7,7 @@ subtitle: >-
 menus:
   main:
     weight: 3
-    title: Style Guide
+    title: Guide
 layout: page
 ---
 
