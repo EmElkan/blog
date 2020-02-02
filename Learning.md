@@ -11,7 +11,7 @@ layout: page
 
 ### Books
  
-![](images/about.png) Explore It!: Reduce Risk and Increase Confidence
+![]("images/check_box.svg") Explore It!: Reduce Risk and Increase Confidence
 
 ![](images/check_box.svg) The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business
 - [x]  The Unicorn Project: A Novel about Digital Disruption, Redshirts, and Overthrowing the Ancient Powerful Order
