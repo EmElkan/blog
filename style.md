@@ -11,20 +11,20 @@ layout: page
 
 ### Books
  
-[x]  Explore It!: Reduce Risk and Increase Confidence
-[x]  The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business
-[x]  The Unicorn Project: A Novel about Digital Disruption, Redshirts, and Overthrowing the Ancient Powerful Order
-[x]  Working with Coders: A Guide to Software Development
-[x]  Lean In: Women, Work, and the Will to Lead
-[x]  How Women Rise: Break the 12 Habits Holding You Back
-[x]  A Practical Guide to Testing in DevOps
-[x]  Lessons Learned in Software Testing
-[x]  7 Skills for the Future: Adaptability, Critical Thinking, Empathy, Integrity, Optimism, Being Proactive, Resilience
-[ ]  The Five Dysfunctions of a Team
-[x]  Fifty Quick Ideas to Improve your Retrospectives
-[x]  Fifty Quick Ideas to Improve your Tests
-[ ]  Complete Guide to Test Automation
-[ ]  Clean Agile: Back to Basics
+- [x]  Explore It!: Reduce Risk and Increase Confidence
+- [x]  The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business
+- [x]  The Unicorn Project: A Novel about Digital Disruption, Redshirts, and Overthrowing the Ancient Powerful Order
+- [x]  Working with Coders: A Guide to Software Development
+- [x]  Lean In: Women, Work, and the Will to Lead
+- [x]  How Women Rise: Break the 12 Habits Holding You Back
+- [x]  A Practical Guide to Testing in DevOps
+- [x]  Lessons Learned in Software Testing
+- [x]  7 Skills for the Future: Adaptability, Critical Thinking, Empathy, Integrity, Optimism, Being Proactive, Resilience
+- [ ]  The Five Dysfunctions of a Team
+- [x]  Fifty Quick Ideas to Improve your Retrospectives
+- [x]  Fifty Quick Ideas to Improve your Tests
+- [ ]  Complete Guide to Test Automation
+- [ ]  Clean Agile: Back to Basics
  
 ### Online Certification
  
