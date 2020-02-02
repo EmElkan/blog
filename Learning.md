@@ -11,20 +11,20 @@ layout: page
 
 ### Books
  
-![](/images/check_box.svg) Explore It!: Reduce Risk and Increase Confidence
-![](/images/check_box.svg) The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business
-- [x]  The Unicorn Project: A Novel about Digital Disruption, Redshirts, and Overthrowing the Ancient Powerful Order
-- [x]  Working with Coders: A Guide to Software Development
-- [x]  Lean In: Women, Work, and the Will to Lead
-- [x]  How Women Rise: Break the 12 Habits Holding You Back
-- [x]  A Practical Guide to Testing in DevOps
-- [x]  Lessons Learned in Software Testing
-- [x]  7 Skills for the Future: Adaptability, Critical Thinking, Empathy, Integrity, Optimism, Being Proactive, Resilience
-- [ ]  The Five Dysfunctions of a Team
-- [x]  Fifty Quick Ideas to Improve your Retrospectives
-- [x]  Fifty Quick Ideas to Improve your Tests
-- [ ]  Complete Guide to Test Automation
-- [ ]  Clean Agile: Back to Basics
+- ![](/images/check_box.svg) Explore It!: Reduce Risk and Increase Confidence
+- ![](/images/check_box.svg) The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business
+- ![](/images/check_box.svg) The Unicorn Project: A Novel about Digital Disruption, Redshirts, and Overthrowing the Ancient Powerful Order
+- ![](/images/check_box.svg) Working with Coders: A Guide to Software Development
+- ![](/images/check_box.svg) Lean In: Women, Work, and the Will to Lead
+- ![](/images/check_box.svg) How Women Rise: Break the 12 Habits Holding You Back
+- ![](/images/check_box.svg) A Practical Guide to Testing in DevOps
+- ![](/images/check_box_outline.svg) Lessons Learned in Software Testing
+- ![](/images/check_box.svg) 7 Skills for the Future: Adaptability, Critical Thinking, Empathy, Integrity, Optimism, Being Proactive, Resilience
+- ![](/images/check_box_outline.svg) The Five Dysfunctions of a Team
+- ![](/images/check_box.svg) Fifty Quick Ideas to Improve your Retrospectives
+- ![](/images/check_box.svg) Fifty Quick Ideas to Improve your Tests
+- ![](/images/check_box_outline.svg) Complete Guide to Test Automation
+- ![](/images/check_box_outline.svg) Clean Agile: Back to Basics
  
 ### Online Certification
  
