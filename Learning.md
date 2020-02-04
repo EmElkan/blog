@@ -28,31 +28,31 @@ layout: page
  
 ### Online Certification
  
- SoloLearn C# Tutorial course
- SoloLearn SQL Fundamentals course
- SoloLearn Python 3 Tutorial course
- TAU Setting a Foundation for Test Automation
- TAU Exploring Service APIs through Test Automation
- TAU The Whole Team Approach to Continuous Testing
- TAU Test Automation in DevOps
- TAU Tools and Techniques for Performance and Load Testing
- FutureLearn Digital Skills: UX
+ - ![](/images/check_box.svg) SoloLearn C# Tutorial course
+ - ![](/images/check_box.svg) SoloLearn SQL Fundamentals course
+ - ![](/images/check_box.svg) SoloLearn Python 3 Tutorial course
+ - ![](/images/check_box.svg) TAU Setting a Foundation for Test Automation
+ - ![](/images/check_box.svg) TAU Exploring Service APIs through Test Automation
+ - ![](/images/check_box.svg) TAU The Whole Team Approach to Continuous Testing
+ - ![](/images/check_box.svg) TAU Test Automation in DevOps
+ - ![](/images/check_box_outline.svg) TAU Tools and Techniques for Performance and Load Testing
+ - ![](/images/check_box.svg) FutureLearn Digital Skills: UX
  
 ### Tutorials
  
- Git Basics
- GitHub Guides
- Learn Markdown
- PowerShell Basics
- Get Started with VS Code
- Davinci Resolve: Beginners
- Deploy with Docker
- Docker and Kubernetes: The Complete Guide
- Azure Portal Quickstart guide
- Postman Learning Center
+ - ![](/images/check_box.svg) Git Basics
+ - ![](/images/check_box.svg) GitHub Guides
+ - ![](/images/check_box.svg) Learn Markdown
+ - ![](/images/check_box.svg) PowerShell Basics
+ - ![](/images/check_box.svg) Get Started with VS Code
+ - ![](/images/check_box.svg) Davinci Resolve: Beginners
+ - ![](/images/check_box.svg) Deploy with Docker
+ - ![](/images/check_box_outline.svg) Docker and Kubernetes: The Complete Guide
+ - ![](/images/check_box.svg) Azure Portal Quickstart guide
+ - ![](/images/check_box.svg) Postman Learning Center
  Command line integration with Newman
- PyAutoGui Introduction
- Getting started with the Elastic Stack
- Getting Started with GitLab CI/CD
- Figma Tutorial
- Getting Started with Miro
+ - ![](/images/check_box.svg) PyAutoGui Introduction
+- ![](/images/check_box.svg) Getting started with the Elastic Stack
+- ![](/images/check_box.svg) Getting Started with GitLab CI/CD
+- ![](/images/check_box.svg) Figma Tutorial
+- ![](/images/check_box.svg) Getting Started with Miro
