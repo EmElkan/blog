@@ -12,23 +12,14 @@ layout: page
 ### Books
  
 - ![](/images/check_box.svg) [Explore It!: Reduce Risk and Increase Confidence](https://www.goodreads.com/book/show/15980494-explore-it)
-
 - ![](/images/check_box.svg) [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
-
 - ![](/images/check_box.svg) [The Unicorn Project: A Novel About Digital Disruption, Redshirts, and Overthrowing the Ancient Powerful Order](https://www.goodreads.com/book/show/44333183-the-unicorn-project?ac=1&from_search=true&qid=U3t6Lk7DOW&rank=1)
-
 - ![](/images/check_box.svg) [Working with Coders: A Guide to Software Development](https://www.goodreads.com/book/show/35141788-working-with-coders?ac=1&from_search=true&qid=CmbtKtTwuh&rank=2)
-
 - ![](/images/check_box.svg) [Lean In: Women, Work, and the Will to Lead](https://www.goodreads.com/book/show/16071764-lean-in?ac=1&from_search=true&qid=XBVI8KPgAV&rank=1)
-
 - ![](/images/check_box.svg) [How Women Rise: Break the 12 Habits Holding You Back](https://www.goodreads.com/book/show/36204301-how-women-rise?ac=1&from_search=true&qid=GD5pcQRPGT&rank=1)
-
 - ![](/images/check_box.svg) [A Practical Guide to Testing in DevOps](https://www.goodreads.com/book/show/35904152-a-practical-guide-to-testing-in-devops?ac=1&from_search=true&qid=fc0d6WEGbl&rank=1)
-
 - ![](/images/check_box_outline.svg) [Lessons Learned in Software Testing](https://www.goodreads.com/book/show/599997.Lessons_Learned_in_Software_Testing?ac=1&from_search=true&qid=qcBhyrvb8Y&rank=1)
-
 - ![](/images/check_box.svg) [7 Skills for the Future: Adaptability, Critical Thinking, Empathy, Integrity, Optimism, Being Proactive, Resilience](https://www.goodreads.com/book/show/43533714-7-skills-for-the-future?ac=1&from_search=true&qid=EkR2YBY88f&rank=1)
-
 - ![](/images/check_box_outline.svg) The Five Dysfunctions of a Team
 - ![](/images/check_box.svg) Fifty Quick Ideas to Improve your Retrospectives
 - ![](/images/check_box.svg) Fifty Quick Ideas to Improve your Tests
