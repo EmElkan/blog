@@ -20,11 +20,11 @@ layout: page
 - ![](/images/check_box.svg) [A Practical Guide to Testing in DevOps](https://www.goodreads.com/book/show/35904152-a-practical-guide-to-testing-in-devops?ac=1&from_search=true&qid=fc0d6WEGbl&rank=1)
 - ![](/images/check_box_outline.svg) [Lessons Learned in Software Testing](https://www.goodreads.com/book/show/599997.Lessons_Learned_in_Software_Testing?ac=1&from_search=true&qid=qcBhyrvb8Y&rank=1)
 - ![](/images/check_box.svg) [7 Skills for the Future: Adaptability, Critical Thinking, Empathy, Integrity, Optimism, Being Proactive, Resilience](https://www.goodreads.com/book/show/43533714-7-skills-for-the-future?ac=1&from_search=true&qid=EkR2YBY88f&rank=1)
-- ![](/images/check_box_outline.svg) The Five Dysfunctions of a Team
-- ![](/images/check_box.svg) Fifty Quick Ideas to Improve your Retrospectives
-- ![](/images/check_box.svg) Fifty Quick Ideas to Improve your Tests
-- ![](/images/check_box_outline.svg) Complete Guide to Test Automation
-- ![](/images/check_box_outline.svg) Clean Agile: Back to Basics
+- ![](/images/check_box_outline.svg) [The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team?ac=1&from_search=true&qid=hzBPXTkPmI&rank=1)
+- ![](/images/check_box.svg) [Fifty Quick Ideas to Improve your Retrospectives](https://www.goodreads.com/book/show/27774288-fifty-quick-ideas-to-improve-your-retrospectives?ac=1&from_search=true&qid=LlTdkZ6dzs&rank=3)
+- ![](/images/check_box.svg) [Fifty Quick Ideas to Improve your Tests](https://www.goodreads.com/book/show/25564600-fifty-quick-ideas-to-improve-your-tests?ac=1&from_search=true&qid=ecgPeLfDjR&rank=2)
+- ![](/images/check_box_outline.svg) [Complete Guide to Test Automation](https://www.goodreads.com/book/show/40597214-complete-guide-to-test-automation?ac=1&from_search=true&qid=TAPFzw0rv6&rank=1)
+- ![](/images/check_box_outline.svg) [Clean Agile: Back to Basics](https://www.goodreads.com/book/show/45280021-clean-agile?ac=1&from_search=true&qid=G0aUNstPoR&rank=1)
  
 ### Online Certification
  
