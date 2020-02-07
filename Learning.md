@@ -40,9 +40,9 @@ layout: page
  
 ### Tutorials
  
- - ![](/images/check_box.svg) Git Basics
- - ![](/images/check_box.svg) GitHub Guides
- - ![](/images/check_box.svg) Learn Markdown
+ - ![](/images/check_box.svg) [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+ - ![](/images/check_box.svg) [GitHub Guides](https://guides.github.com/)
+ - ![](/images/check_box.svg) [Markdown Basics](https://www.markdownguide.org/getting-started/)
  - ![](/images/check_box.svg) PowerShell Basics
  - ![](/images/check_box.svg) Get Started with VS Code
  - ![](/images/check_box.svg) Davinci Resolve: Beginners
