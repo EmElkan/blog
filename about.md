@@ -9,11 +9,11 @@ menus:
 layout: page
 ---
 
-**E Elkan** is a SQA Engineer from [Hull](https://en.wikipedia.org/wiki/Kingston_upon_Hull), England. After graduating from The Hull School of Art and Design with a degree in Creative Arts, she spent several years raising a family. In April 2019 she started her first job in software development as a Trainee Software Tester.
+I'm a SQA Engineer from [Hull](https://en.wikipedia.org/wiki/Kingston_upon_Hull), England. After graduating from The Hull School of Art and Design with a degree in Creative Arts, I spent several years raising a family. In April 2019 I started my first job in software development as a Trainee Software Tester.
 
 
 >Testing is an infinite process of comparing the invisible to the ambiguous in order to avoid the unthinkable happening to the anonymous. <cite>James Bach</cite>
 
-As a hobby, E Elkan enjoys learning about new technologies and developing her software testing skills.
+I'm passionate about learning and personal development. My interests include GUI and API automation, continuous testing, python, UX design and prototyping. 
 
 *Thank You for reading!*
