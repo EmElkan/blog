@@ -17,3 +17,5 @@ I'm a SQA Engineer from [Hull](https://en.wikipedia.org/wiki/Kingston_upon_Hull)
 I'm passionate about learning and personal development. My interests include GUI and API automation, continuous testing, python, UX design and prototyping. 
 
 *Thank You for reading!*
+
+Illustration by Icons 8
