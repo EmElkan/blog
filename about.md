@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: I'm a software tester enjoying my first year in tech.
+subtitle: Enjoying my first year in tech.
 img_path: images/about.png
 menus:
   main:
