@@ -9,7 +9,7 @@ menus:
 layout: page
 ---
 
-I'm an SQA Engineer from [Hull](https://en.wikipedia.org/wiki/Kingston_upon_Hull), England. After graduating from The Hull School of Art and Design with a degree in Creative Arts, I spent several years raising a family. In April 2019 I started my first job in software development as a Trainee Software Tester.
+I'm a SQA Engineer from [Hull](https://en.wikipedia.org/wiki/Kingston_upon_Hull), England. After graduating from The Hull School of Art and Design with a degree in Creative Arts, I spent several years raising a family. In April 2019 I started my first job in software development as a Trainee Software Tester.
 
 
 >Testing is an infinite process of comparing the invisible to the ambiguous in order to avoid the unthinkable happening to the anonymous. <cite>James Bach</cite>
