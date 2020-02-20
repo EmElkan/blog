@@ -25,6 +25,7 @@ layout: page
 - ![](/images/check_box.svg) [Fifty Quick Ideas to Improve your Tests](https://www.goodreads.com/book/show/25564600-fifty-quick-ideas-to-improve-your-tests?ac=1&from_search=true&qid=ecgPeLfDjR&rank=2)
 - ![](/images/check_box_outline.svg) [Complete Guide to Test Automation](https://www.goodreads.com/book/show/40597214-complete-guide-to-test-automation?ac=1&from_search=true&qid=TAPFzw0rv6&rank=1)
 - ![](/images/check_box_outline.svg) [Clean Agile: Back to Basics](https://www.goodreads.com/book/show/45280021-clean-agile?ac=1&from_search=true&qid=G0aUNstPoR&rank=1)
+![](/images/check_box_outline.svg) [Atomic Habits](https://www.amazon.co.uk/Atomic-Habits-Proven-Build-Break/dp/1847941834/ref=sr_1_1?adgrpid=55203490952&gclid=CjwKCAiA1rPyBRAREiwA1UIy8PU43fjNAL5XPGCrE0DQlu4mz-9WaMBOxYJGvn3oOfm-mXG7qFtzcRoClU0QAvD_BwE&hvadid=267143331518&hvdev=c&hvlocphy=1006816&hvnetw=g&hvpos=1t2&hvqmt=e&hvrand=9885727217987293427&hvtargid=aud-858007574814%3Akwd-484824757107&hydadcr=11859_1766765&keywords=atomic+habits&qid=1582182159&sr=8-1)
  
 ### Online Certification
  
