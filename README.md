@@ -2,7 +2,7 @@
 ## [My blog](https://emelkan.netlify.app/)
 
 
-![](images/about.png)
+[![](images/about.png)](https://emelkan.netlify.app/about/)
 
 &nbsp;
 
