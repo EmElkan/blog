@@ -2,7 +2,7 @@
 title: GUI Automation with Python
 excerpt: >-
   Beginners guide to GUI automation with Python and PyAutoGUI.
-date: '2020-02-01'
+date: '2020-05-25'
 thumb_img_path: images/snake.png
 content_img_path: images/snake.png
 layout: post
@@ -11,7 +11,7 @@ layout: post
 
 This guide is aimed at beginners who are interested in GUI automation with Python.
 
-See the example project at: https://github.com/EmElkan/hello-world-automation
+See the example project at: [https://github.com/EmElkan/hello-world-automation](https://github.com/EmElkan/hello-world-automation)
 
 
 ## Python
@@ -19,7 +19,7 @@ See the example project at: https://github.com/EmElkan/hello-world-automation
 - Install the 3.7.7 version of [Python](https://www.python.org/downloads/)
 - Tick Add Python to PATH
 
-![PythonInstall.png](images/PythonInstall.png)
+![PythonInstall.png](/images/PythonInstall.png)
 
 - Open up Command Prompt as Administrator
 - Run command: pip install pyautogui
@@ -29,55 +29,55 @@ See the example project at: https://github.com/EmElkan/hello-world-automation
 
 - Download and install [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/#section=windows)
 
-![PycharmInstall.png](images/PycharmInstall.png)
+![PycharmInstall.png](/images/PycharmInstall.png)
 
 - Open up Pycharm and create a new project named MyProject
 
-![MyProject.png](images/MyProject.png)
+![MyProject.png](/images/MyProject.png)
 
 - Go to File > Settings > Project: MyProject > Project Interpreter
 - Click the + 
 
-![ProjectInterpreter.png](images/ProjectInterpreter.png)
+![ProjectInterpreter.png](/images/ProjectInterpreter.png)
 
 - Install packages PyAutoGUI
 - Install opencv-python
 
-![PackageInstall.png](images/PackageInstall.png)
+![PackageInstall.png](/images/PackageInstall.png)
 
 - Close the Available Packages window
 - The Project Interpreter should now contain your new packages
 - Click OK
 
-![AllPackages.png](images/AllPackages.png)
+![AllPackages.png](/images/AllPackages.png)
 
 - Right click MyProject
 - Click New > Python File
 - Create a Python File named main_module
 - Create a Python File named test_script
 
-![AddFile.png](images/AddFile.png)
+![AddFile.png](/images/AddFile.png)
 
 - Right click MyProject
 - Click New > Directory
 - Create a Directory named Images
 
-![AddFolder.png](images/AddFolder.png)
+![AddFolder.png](/images/AddFolder.png)
 
 ## Adding an Image
 
 - Using the Snipping Tool, snip a chunk of the Windows search bar
 
-![ImageSnip.png](images/ImageSnip.png)
+![ImageSnip.png](/images/ImageSnip.png)
 
 - Save as WindowsSearchBar.png in the MyProject > Images folder
 
-![SavedImage.png](images/SavedImage.png)
+![SavedImage.png](/images/SavedImage.png)
 
 
 ## Creating a Function
 
-![FirstFunction.png](images/FirstFunction.png)
+![FirstFunction.png](/images/FirstFunction.png)
 
 - Inside main_module import the packages PyAutoGUI and time
 ```
@@ -155,7 +155,7 @@ windows_search('paint')
 ```
 - Right click within test_script and click Run 'test_script'
 
-![RunTest.png](images/RunTest.png)
+![RunTest.png](/images/RunTest.png)
 
 
 ## Logging
@@ -166,7 +166,7 @@ windows_search('paint')
 - In main_module import logging
 - Add logging messages to windows_search
 
-![Logging.png](images/Logging.png)
+![Logging.png](/images/Logging.png)
 
 Full code example:
 ```
@@ -200,7 +200,7 @@ logging.basicConfig(filename='Logs/test_script.log',
                     datefmt='[%Y.%m.%d] %H:%M:%S -', level=logging.DEBUG)
 ```
 
-![LoggingConfig.png](images/LoggingConfig.png)
+![LoggingConfig.png](/images/LoggingConfig.png)
 
 - Add logging messages
 
@@ -235,11 +235,11 @@ To take a screenshot when the Windows search bar can't be found, add the below c
 pyautogui.screenshot(r'Screenshots/CouldNotFindWindowsSearchBar.png')
 ```
 
-![Screenshots.png](images/Screenshots.png)
+![Screenshots.png](/images/Screenshots.png)
 
 Now when we run test_script if the program can not find Windows search bar it will take a screenshot:
 
-![CouldNotFind.png](images/CouldNotFind.png)
+![CouldNotFind.png](/images/CouldNotFind.png)
 
 ## Useful Links
 
