@@ -248,9 +248,7 @@ Now when we run test_script if the program can not find Windows search bar it wi
 ## Useful Links
 
 [PyAutoGui Docs](https://pyautogui.readthedocs.io/en/latest/)
-
 [Python for Beginners](https://www.python.org/about/gettingstarted/)
-
 [Pycharm Quick Start Guide](https://www.jetbrains.com/help/pycharm/quick-start-guide.html)
 
 
