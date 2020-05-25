@@ -250,3 +250,6 @@ Now when we run test_script if the program can not find Windows search bar it wi
 [Pycharm Quick Start Guide](https://www.jetbrains.com/help/pycharm/quick-start-guide.html)
 
 
+&nbsp;
+
+*Illustration by [Icons 8](https://icons8.com/)*
