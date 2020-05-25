@@ -85,14 +85,17 @@ import pyautogui
 import time
 ````
 - Give the function a name (windows_search), and a variable (text) for text input
+
 ```
 def windows_search(text):
 ```
 - Add in a 5 second wait
+
 ```
 time.sleep(0.5)
 ```
 - Spend 10 seconds looking for WindowsSearchBar
+
 ```
     search = None
     time_end = time.time() + 10
@@ -104,20 +107,25 @@ time.sleep(0.5)
             print('Looking for Search Bar')
 
 ```
+
 - If WindowsSearchBar can not be found print a message and stop the code
 
 ```
     if search is None and time.time() > time_end:
         print('Could not find Search Bar')
         exit()
+
 ```
+
 - If WindowsSearchBar is found click it and type (text)
 
 ```
     print('Found Search Bar')
     pyautogui.click(search)
     pyautogui.typewrite(text)
+
 ```
+
 Full code example:
 
 ```
@@ -141,9 +149,8 @@ def windows_search(text):
     pyautogui.click(search)
     pyautogui.typewrite(text)
 
-
-
 ```
+
 ## Creating a Script
 
 - Inside test_script import main_module
