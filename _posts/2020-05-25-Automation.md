@@ -207,9 +207,10 @@ logging.basicConfig(filename='Logs/test_script.log',
                     datefmt='[%Y.%m.%d] %H:%M:%S -', level=logging.DEBUG)
 ```
 
+- Add logging messages
+
 ![LoggingConfig.png](/images/LoggingConfig.png)
 
-- Add logging messages
 
 
 ```
