@@ -89,11 +89,7 @@ import time
 ```
 def windows_search(text):
 ```
-- Add in a 0.5 second wait
 
-```
-time.sleep(0.5)
-```
 - Spend 10 seconds looking for WindowsSearchBar
 
 ```
