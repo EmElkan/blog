@@ -89,7 +89,7 @@ import time
 ```
 def windows_search(text):
 ```
-- Add in a 5 second wait
+- Add in a 0.5 second wait
 
 ```
 time.sleep(0.5)
