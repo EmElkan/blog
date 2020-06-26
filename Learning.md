@@ -38,24 +38,37 @@ layout: page
  - ![](/images/check_box.svg) TAU Exploring Service APIs through Test Automation
  - ![](/images/check_box.svg) TAU The Whole Team Approach to Continuous Testing
  - ![](/images/check_box.svg) TAU Test Automation in DevOps
- - ![](/images/check_box_outline.svg) TAU Tools and Techniques for Performance and Load Testing
+ - ![](/images/check_box.svg) TAU Tools and Techniques for Performance and Load Testing
  - ![](/images/check_box.svg) FutureLearn Digital Skills: UX
  
 ### Tutorials
  
- - ![](/images/check_box.svg) [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
- - ![](/images/check_box.svg) [GitHub Guides](https://guides.github.com/)
- - ![](/images/check_box.svg) [Markdown Basics](https://www.markdownguide.org/getting-started/)
- - ![](/images/check_box.svg) PowerShell Basics
- - ![](/images/check_box.svg) Get Started with VS Code
- - ![](/images/check_box.svg) Davinci Resolve: Beginners
- - ![](/images/check_box.svg) Deploy with Docker
- - ![](/images/check_box_outline.svg) Docker and Kubernetes: The Complete Guide
- - ![](/images/check_box.svg) Azure Portal Quickstart guide
- - ![](/images/check_box.svg) Postman Learning Center
- Command line integration with Newman
- - ![](/images/check_box.svg) PyAutoGui Introduction
+- ![](/images/check_box.svg) [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+- ![](/images/check_box.svg) [GitHub Guides](https://guides.github.com/)
+- ![](/images/check_box.svg) [Markdown Basics](https://www.markdownguide.org/getting-started/)
+- ![](/images/check_box.svg) PowerShell Basics
+- ![](/images/check_box.svg) Get Started with VS Code
+- ![](/images/check_box.svg) Davinci Resolve: Beginners
+- ![](/images/check_box.svg) Deploy with Docker
+- ![](/images/check_box_outline.svg) Docker and Kubernetes: The Complete Guide
+- ![](/images/check_box.svg)Kubernetes Basics
+- ![](/images/check_box.svg)Kubernetes Hello Minikube Tutorial
+- ![](/images/check_box.svg) Azure Portal Quickstart guide
+- ![](/images/check_box.svg) Azure: Understanding the Big Picture
+- ![](/images/check_box.svg) Command line integration with Newman
+- ![](/images/check_box.svg) PyAutoGui Introduction
 - ![](/images/check_box.svg) Getting started with the Elastic Stack
 - ![](/images/check_box.svg) Getting Started with GitLab CI/CD
 - ![](/images/check_box.svg) Figma Tutorial
 - ![](/images/check_box.svg) Getting Started with Miro
+- ![](/images/check_box.svg) LinkedIn Learning Agile Testing
+- ![](/images/check_box.svg) Test Automation Foundations
+- ![](/images/check_box.svg) Succeeding in DevOps
+- ![](/images/check_box.svg) Behaviour Driven Development
+- ![](/images/check_box.svg) Getting Started with k6
+- ![](/images/check_box.svg) k6 with InfluxDB and Grafana Tutorial
+- ![](/images/check_box.svg) k6 Load testing with Azure Pipelines
+- ![](/images/check_box_outline.svg) Udemy Cypress: Web Automation Testing from Zero to Hero
+- ![](/images/check_box.svg) Learning npm the Node Package Manager
+- ![](/images/check_box.svg) DevOps Foundations: Transforming the Enterprise
+- ![](/images/check_box.svg) Postman Essential Training
