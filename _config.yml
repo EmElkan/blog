@@ -1,4 +1,4 @@
-title: Em
+title: Em Elkan
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -7,7 +7,7 @@ collections:
 layout_style: overflow
 palette: blue
 header:
-  title: Emma Elkan
+  title: Em Elkan
   tagline: SQA Engineer. Automation enthusiast. Habitual hobbyist. Always learning.
   profile_img: images/avatar.png
   bg: light
