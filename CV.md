@@ -1,7 +1,5 @@
 ---
 title: Curriculum Vitae
-subtitle: >-
-  
 menus:
   main:
     weight: 3
