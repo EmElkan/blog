@@ -1,9 +1,9 @@
 ---
-title: Curriculum Vitae
+title: CV
 menus:
   main:
     weight: 3
-    title: Curriculum Vitae
+    title: CV
 layout: page
 ---
 
