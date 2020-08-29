@@ -1,9 +1,9 @@
 ---
-title: Curriculum vitae
+title: Curriculum Vitae
 menus:
   main:
     weight: 3
-    title: Curriculum vitae
+    title: Curriculum Vitae
 layout: page
 ---
 
@@ -14,6 +14,8 @@ layout: page
 <a href="https://github.com/EmElkan">GitHub</a> |
 <a href="https://twitter.com/eM_Elkan">Twitter</a> | <a href="eelkan@outlook.com">Email</a>
 </div>
+
+___
 
 ISTQB accredited SQA Engineer with over a years experience working in an agile environment with desktop and web-based applications. Knowledge of test documentation and best practices, Microsoft Azure, API testing with Postman and Newman, UI automation, Performance testing with k6, Docker, JavaScript, and Python.
 
