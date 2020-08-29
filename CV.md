@@ -23,7 +23,6 @@ ISTQB accredited SQA Engineer with over a years experience working in an agile e
 
 Working within a scrum team developing mission critical products used by the Emergency Services.
 
-- Working within an agile scrum team.
 - Defect management.
 - Creating and executing test scripts.
 - Reporting and documenting test results.
