@@ -12,7 +12,7 @@ layout: page
 <div id="contact"> 
 <a href="https://www.linkedin.com/in/emma-elkan-tester/">LinkedIn</a> |
 <a href="https://github.com/EmElkan">GitHub</a> |
-<a href="https://twitter.com/eM_Elkan">Twitter</a> | <a href="eelkan@outlook.com">Email</a>
+<a href="https://twitter.com/eM_Elkan">Twitter</a>
 </div>
 
 ___
