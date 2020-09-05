@@ -17,12 +17,13 @@ layout: page
 
 ___
 
-ISTQB accredited SQA Engineer with over a years experience working in an agile environment with desktop and web-based applications. Knowledge of test documentation and best practices, Microsoft Azure, API testing with Postman and Newman, UI automation, Performance testing with k6, Docker, JavaScript, and Python.
+ISTQB accredited SQA Engineer with over a years experience working in an agile environment with desktop and web-based applications. Knowledge of test documentation and best practices, Scrum, Microsoft Azure, Git and source control, API testing with Postman and Newman, UI automation with Cypress and PyAutoGui, Performance testing with k6, Docker, JavaScript, and Python.
 
 ## Currently
 
 Working within a scrum team developing mission critical products used by the Emergency Services.
 
+Responsibilities:
 - Defect management.
 - Creating and executing test scripts.
 - Reporting and documenting test results.
@@ -31,10 +32,9 @@ Working within a scrum team developing mission critical products used by the Eme
 - API testing.
 - Performance and load testing.
 - Security testing.
-- Git and version control.
-- UI and API Automation.
 - Creating and maintaining documentation.
 - Running demonstrations and knowledge sharing sessions.
+- UI and API Automation.
 - Pipeline setup and maintenance.
 - Involved with recruitment.
 - Creating video demos for clients and stakeholders.
