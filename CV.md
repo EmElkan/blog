@@ -17,7 +17,7 @@ layout: page
 
 ___
 
-ISTQB accredited SQA Engineer with over a years experience working in an agile environment with desktop and web-based applications. Knowledge of test documentation and best practices, Scrum, Microsoft Azure, Git and source control, API testing with Postman and Newman, UI automation with Cypress and PyAutoGui, Performance testing with k6, Docker, JavaScript, and Python.
+ISTQB accredited SQA Engineer with over a year and a half of experience working in an agile environment with desktop and web-based applications. Passionate about learning and personal development. Knowledge of defect management, test documentation, Scrum, TFS, Microsoft Azure, Git and source control, API testing with Postman and Newman, UI automation with Cypress and PyAutoGui, performance testing with k6, security testing, Docker, CI/CD, HTML, JavaScript, and Python. 
 
 ## Currently
 
