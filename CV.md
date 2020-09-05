@@ -30,10 +30,13 @@ Working within a scrum team developing mission critical products used by the Eme
 - Cross browser testing.
 - API testing.
 - Performance and load testing.
-- Defect management.
-- Maintaining product documentation.
+- Security testing.
+- Git and version control.
+- UI and API Automation.
+- Creating and maintaining documentation.
 - Running demonstrations and knowledge sharing sessions.
-- Developed automation projects to improve workflows.
+- Pipeline setup and maintenance.
+- Involved with recruitment.
 - Creating video demos for clients and stakeholders.
 
 ## Education
