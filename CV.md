@@ -17,35 +17,46 @@ layout: page
 
 ___
 
-ISTQB accredited SQA Engineer with over a year and a half of experience working in an agile environment with desktop and web-based applications. Passionate about learning and personal development. Knowledge of defect management, test documentation, Scrum, TFS, Microsoft Azure, Git and source control, API testing with Postman and Newman, UI automation with Cypress and PyAutoGui, performance testing with k6, security testing, Docker, CI/CD, HTML, JavaScript, and Python. 
+ISTQB accredited test engineer and certified scrum master with over two years experience working in an agile environment with mission critical desktop and web-based applications. I'm passionate about learning and personal development.
+
+Experience with:
+- Software development and defect management.
+- Agile and Scrum.
+- Cloud, hybrid, and on-premises solutions.
+- CI/CD pipelines.
+- Infrastructure as code.
+- Azure DevOps and the Azure Portal.
+- Postman (Exploratory and automated API testing).
+- Cypress (UI integration and e2e testing).
+- k6 (Performance testing).
+- OWASP ZAP (Security testing).
+- Siteimprove and Accessibility Insights (Accessibility testing).
+- Docker.
+- HTML, CSS, JavaScript.
+- Python.
+
 
 ## Currently
 
-Working within a scrum team developing mission critical products used by the Emergency Services.
+Working as a Developer in Test within a scrum team developing mission critical products used by the Emergency Services.
 
 Responsibilities:
 - Defect management.
-- Creating and executing test scripts.
-- Reporting and documenting test results.
-- Installation and configuration of software.
-- Cross browser testing.
-- API testing.
-- Performance and load testing.
-- Security testing.
-- Creating and maintaining documentation.
+- Exploratory testing.
+- Functional and non functional automated testing.
+- Tooling research and implementation.
+- Documentation.
+- Creating and maintaining CI/CD pipelines.
 - Running demonstrations and knowledge sharing sessions.
-- UI and API Automation.
-- Pipeline setup and maintenance.
-- Involved with recruitment.
-- Creating video demos for clients and stakeholders.
+- Installation and configuration of software.
+- Involved with recruitment and upskilling.
 
-## Education
 
+## Certification
+
+PSM 1 - Professional Scrum Master.
 ISTQB - Certified Tester Foundation Level.
 
-Foundation Degree - Creative Arts.
-
-BTEC National Diploma - Fine Art.
 
 ## Interests
 Board games | Video games | Printmaking | Animation
