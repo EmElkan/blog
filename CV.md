@@ -38,7 +38,7 @@ Experience with:
 
 ## Currently
 
-Working as a Developer in Test within a scrum team developing mission critical products used by the Emergency Services.
+Working as a Developer in Test within a scrum team creating mission critical products used by the Emergency Services.
 
 Responsibilities:
 - Defect management.
@@ -54,7 +54,7 @@ Responsibilities:
 
 ## Certification
 
-PSM 1 - Professional Scrum Master.
+PSM 1 - Professional Scrum Master.    
 ISTQB - Certified Tester Foundation Level.
 
 
