@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Enjoying my first year in tech.
+subtitle: Enjoying tech.
 img_path: images/about.png
 menus:
   main:
@@ -9,12 +9,12 @@ menus:
 layout: page
 ---
 
-I'm a SQA Engineer from [Hull](https://en.wikipedia.org/wiki/Kingston_upon_Hull), England. After graduating from The Hull School of Art and Design with a degree in Creative Arts, I spent several years raising a family. In April 2019 I started my first job in software development as a Trainee Software Tester.
+I'm a Test Engineer from [Hull](https://en.wikipedia.org/wiki/Kingston_upon_Hull), England. After graduating from The Hull School of Art and Design with a degree in Creative Arts, I spent several years raising a family. In April 2019 I started my first job in software development as a Trainee Software Tester.
 
 
->Testing is an infinite process of comparing the invisible to the ambiguous in order to avoid the unthinkable happening to the anonymous. <cite>James Bach</cite>
+>“It’s better to practice risky things often and in small chunks, than to avoid risky things altogether.”<cite>Charity Majors</cite>
 
-I'm passionate about learning and personal development. My interests include GUI and API automation, continuous testing, python, UX design and prototyping. 
+I enjoy learning and creating. I'm interested in cloud technologies, automation, exploratory functional and non-functional testing. 
 
 Thanks for stopping by!
 
