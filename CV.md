@@ -55,7 +55,8 @@ Responsibilities:
 ## Certification
 
 PSM 1 - Professional Scrum Master.    
-ISTQB - Certified Tester Foundation Level.
+ISTQB - Certified Tester Foundation Level.     
+freeCodeCamp - Responsive Web Design.
 
 
 ## Interests
